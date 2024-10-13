@@ -1,5 +1,7 @@
-hi, if youre reading this you're really weird.
+from playwright.sync_api import sync_playwright
 
-why are you looking at the first commit?
+def main():
+    pass
 
-message me and let me know that you found this, I'll give you some money lol
+if __name__ == "__main__":
+    main()
